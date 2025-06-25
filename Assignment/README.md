@@ -40,9 +40,9 @@ Features include task creation, filtering, completion toggling, persistent stora
 
 ## 📦 Deployment
 
-The app is deployed on [Vercel/Netlify/GitHub Pages] and can be accessed at:
+The app is deployed on Vercel and can be accessed at:
 
-**[https://your-deployment-url.com](https://your-deployment-url.com)**
+**https://week-3-react-js-assignment-thamsanqaemmanuel-2k0yw6bjf.vercel.app/**
 
 ---
 
@@ -52,6 +52,7 @@ The app is deployed on [Vercel/Netlify/GitHub Pages] and can be accessed at:
 ![alt text](image-2.png)
 ![alt text](image-3.png)
 ![alt text](image-4.png)
+![alt text](image-5.png)
 ---
 
 ## 🧪 Testing & Grading
